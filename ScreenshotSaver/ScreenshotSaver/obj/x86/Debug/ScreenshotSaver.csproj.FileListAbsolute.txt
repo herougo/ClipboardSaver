@@ -1,0 +1,25 @@
+D:\henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\BmpToXConverter.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\bin\Debug\ScreenshotSaver.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\bin\Debug\ScreenshotSaver.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.exe
+C:\Henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\bin\Debug\ScreenshotSaver.exe
+C:\Henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\bin\Debug\ScreenshotSaver.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\BmpToXConverter.Form1.resources
+C:\Henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.Properties.Resources.resources
+C:\Henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.csproj.GenerateResource.Cache
+C:\Henri\My Documents\Visual Studio 2010\Projects\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.csprojResolveAssemblyReference.cache
+C:\Henri\My Documents\1 - Priorities\1 - Work\Courses\ENGL 119\Question Bank\Code\Image Helpers\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.exe
+C:\Henri\My Documents\1 - Priorities\1 - Work\Courses\ENGL 119\Question Bank\Code\Image Helpers\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.pdb
+C:\Henri\My Documents\1 - Priorities\1 - Work\Courses\ENGL 119\Question Bank\Code\Image Helpers\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.csprojResolveAssemblyReference.cache
+C:\Henri\My Documents\1 - Priorities\1 - Work\Courses\ENGL 119\Question Bank\Code\Image Helpers\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\BmpToXConverter.Form1.resources
+C:\Henri\My Documents\1 - Priorities\1 - Work\Courses\ENGL 119\Question Bank\Code\Image Helpers\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.Properties.Resources.resources
+C:\Henri\My Documents\1 - Priorities\1 - Work\Courses\ENGL 119\Question Bank\Code\Image Helpers\ScreenshotSaver\ScreenshotSaver\obj\x86\Debug\ScreenshotSaver.csproj.GenerateResource.Cache
+C:\Henri\My Documents\1 - Priorities\1 - Work\Courses\ENGL 119\Question Bank\Code\Image Helpers\ScreenshotSaver\ScreenshotSaver\bin\Debug\ScreenshotSaver.exe
+C:\Henri\My Documents\1 - Priorities\1 - Work\Courses\ENGL 119\Question Bank\Code\Image Helpers\ScreenshotSaver\ScreenshotSaver\bin\Debug\ScreenshotSaver.pdb
